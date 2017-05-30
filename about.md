@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-oh ok yeah that's cool
+Because I've spent my entire life in elective sleep deprivation.
+
+Guess I should get an excuse.
