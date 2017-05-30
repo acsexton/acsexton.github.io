@@ -1,0 +1,18 @@
+---
+title: "Blurbs"
+crawlertitle: "Blurbs"
+summary: "Quick info on neat things."
+bg: "trees.jpg"
+layout: default
+permalink: /pages/blurbs.html
+# active: blog               # Title for navigation
+---
+
+{% for post in site.posts limit: 10 %}
+  {% if post.category == 'blurbs' %}
+    <article class="index-page">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </article>
+  {% endif %}
+{% endfor %}

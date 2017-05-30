@@ -1,0 +1,49 @@
+---
+title: andsoitbegins
+layout: post
+bg: 'snowgray.jpg'
+crawlertitle: "ANDSOITBEGINS" # This goes into the browser titlebar 
+summary: "lol yo math is kinda hard" # This shows up on the left frame and on things like facebook posts
+date: 2018-01-09 # Duh.
+tags : ['blog'] # 'blog','links's # In quotes, separate by commas
+slug: beginagin # This becomes the URL
+author: "acsexton" # Obvs
+category: blog
+---
+
+> *It may be that when we no longer know what to do we have come to our real work, and that when we no longer know which way to go we have come to our real journey. The mind that is not baffled is not employed. The impeded stream is the one that sings.* -Wendell Berry
+
+# Winter Has Come
+
+So I made it through all the [courses I mentioned earlier](https://acsexton.github.io/posts/reboot/), school proper starts soon, and I'm taking plenty of moments to try and divine out whether I'm even half as prepared as I think I am. There has been so much more code since [the bob counter](https://acsexton.github.io/posts/toomanybobs/), and combined with the math work, I think I've done more problem solving in the last eight months than I did in The Before-times:tm: combined. 
+
+Of course, there has been plenty of doubt, plenty of "YOUR SERVICE IS ENDING PLEASE CALL..." forms, so many hours spent on the porch incredibly thankful for [Khan Academy](http://khanacademy.org/), and too much time thinking too hard about too many things when the rest of the world was sleeping. 
+
+But through it all, I have been amazed to find how many people have been willing to stay awake through my repeated, exceedingly-whelmed, badly worded tirades I call my *short diversions into mild concern*. And for that I'm as grateful as a person can be.
+
+> *Isn't it the moment of most profound doubt that gives birth to new certainties? 
+Perhaps hopelessness is the very soil that nourishes human hope; perhaps one could never find sense in life without first experiencing its absurdity.* -Vaclav Havel
+
+But this has absolutely been among the hardest things I've ever done. It changed all of my priorities and everything about the way I live (including some of the ways I speak about it) and I've really struggled to keep up. No matter how this all turns out in the end, I feel like even just this year of small steps has plenty of lessons I won't even realize I learned until way later. But for now, I'm ready to get started and see where it all takes me.
+
+That said, I haven't taken a real classroom math course since Algebra 2 in 11th grade and I'm terrified.
+
+# "lol i'm bad at math too" 
+
+Yeah okay but I failed Algebra 2 twice and never took anything beyond.
+
+So as a letters person knowing I'll have to do well in Calculus 2 in about two semesters, I am, again, *mildly concerned*. 
+
+But I have to admit, there's a part of me that's extremely proud, knowing that I've asked for it and done everything I could to prepare.
+
+Whether we choose to take risks or not, things change. [And for reasons unknown, things tend to change very suddenly.](https://acsexton.github.io/posts/reboot/) So if you ever really feel stagnant, take heart in knowing you're probably just seriously overlooking something awful -- if you ever see an opportunity for better, you might as well take it seriously, right?
+
+Do what *you* think is best.
+
+Put your goals in front of your worries.
+
+And if you don't have any goals, stop being boring and get some.
+
+I'm gonna go get my books on Saturday and see about taking a couple steps forward on my new path. Let me know about your struggles and we'll share *concerns*.
+
+![Herehaveaslothgif](/assets/images/posts/letsgo/slothgif.gif)
