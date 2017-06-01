@@ -1,5 +1,5 @@
 ---
-bg: "snowblue.jpg"
+bg: "treesbw.jpg"
 layout: page
 permalink: /posts/
 title: "Archive"
