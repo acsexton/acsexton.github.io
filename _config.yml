@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Significent 
+title: Significent
 email: barrowlights AT gmail .d.o.t. com
 description: > # this means to ignore newlines until "baseurl:"
-   Because always reboot first.
+  Because always reboot first.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "http://barrowlights.github.io" # the base hostname & protocol for your site
-twitter_username: barrowlights 
-github_username: barrowlights 
+twitter_username: barrowlights
+github_username: barrowlights
 disqus_username:
 
 # Build settings
