@@ -10,6 +10,8 @@ active: about # This shows how it will go up on the page
 
 # ↂ
 
-Because it's one thing to accept a drought from time to time.
+The intersection of Philosophy and effort is the mindful-est hustle.
 
-It's another to recognize we grow best where the dirt's dry.
+Because it's one thing to work through a drought from time to time.
+
+It's another to know we grow best where the dirt's dry.
