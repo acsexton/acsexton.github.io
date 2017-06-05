@@ -10,15 +10,15 @@ sitemap:
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>
     {% if post.lastmod == null %}
-      <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
+      <lastmod>{{ post.date | date: "%m-%d-%Y" }}</lastmod>
     {% else %}
-      <lastmod>{{ post.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      <lastmod>{{ post.lastmod | date: "%m-%d-%Y" }}</lastmod>
     {% endif %}
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   {% endfor %}
-  
+
   {% for page in site.pages %}
     {% if page.sitemap != null and page.sitemap != empty %}
     <url>
