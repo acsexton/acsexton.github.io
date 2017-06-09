@@ -1,0 +1,96 @@
+---
+layout: post # As opposed to page or whatever
+bg: 'trees.jpg' # Can be different per article
+title: 2017-06-12-guessing.md
+crawlertitle: "browsertitle here" # This goes into the browser titlebar
+summary: "pun or something" # This shows up on the left frame and on things like facebook posts
+date: 2017-06-01 # Duh.
+tags : ['blog'] # 'blog','links's # In quotes, separate by commas
+slug: urltext # This becomes the URL
+author: "acsexton" # Obvs
+categories: posts # I think similar to tags, shows up in RSS but nowhere else?
+---
+
+I built a program that guesses a number.
+
+It's almost like a game.
+
+I keep coming up with new numbers and having it guess and man.
+
+Damn satisfying.
+
+Also. Recursion.
+or
+Let me tell you about that time I spent six hours trying to understand a single function and only did because my friend curses a lot and tells good stories.
+
+Me:
+When running the basic factorial recursive function:
+
+def f(n): 
+  if n == 1:
+      return 2
+  else: 
+      return n*f(n-1)
+if I try something like
+
+>> a = f(3)
+The computer sort of 'thinks' the following:
+
+3 is not 1
+so return 3*f(2)
+2 is not 1
+so return 2*f(1)
+1 is 1
+so return 1 as f(1)
+It then stops where it does, "n == 1: return 1", that is the first time the response has been something besides a formula that requires more computation
+
+this then returns 2*1 as f(2)
+which then returns 3*2*1 as f(3)
+this makes a = 6
+
+if this was modified and instead the line was
+
+  if n == 1: return 2
+when it got to that point it would return 2 as f(1) which would then be evaluated
+
+2 as f(1)
+2*2 as f(2)
+2*2*3 as f(3)
+giving a = 12
+
+So here's his explanation:
+
+	Anyway
+	You got a family tree, right
+	And we're starting with like, your grandpa
+	And I go up to him and ask
+	"How many people are in your family?"
+	Now, you may or may not have a big-ass motherfucking family
+	And your grandpa may or may not be senile
+	But just run with me here
+	So your grandpa goes "Fuck if I know, but that's a good question. Let's figure that out."
+	So he goes to his few kids and asks each of them "Hey, how many people in your family?"
+	They go "Well shit, I'm not sure, I've got kids too. I'll have to ask them."(edited)
+	So your parents, and all the appropriate siblings all run around and ask you guys "Hey, how many people in your family?"
+	So you look and go "Well shit, I ain't got no kids yet. Just me."
+	And your parent goes "Well, you're 1. And I'm 1. HEY GRANDPA, THERE'S TWO OF US."
+	And your grandpa goes "Alright, you're 2. And my other kid is 4. And this last guy is 3. So there's 9 people descended from me."
+
+	```python
+	def countFamily(person):
+	    if number of kids person has == 0:
+	        return 1
+	    else
+	        count = 1 // to count me
+	        for (child = each child of person)
+	            count = count + countFamily(child)
+	        return count
+
+	print countFamily(grandpa)
+	```
+
+	recursion is really handy for working with trees of things
+	and I have no idea if that makes any goddamn sense
+	but there ya go
+
+
