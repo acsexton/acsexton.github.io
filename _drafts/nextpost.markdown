@@ -1,0 +1,4 @@
+---
+title: Nextpost
+layout: post
+---
