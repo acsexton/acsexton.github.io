@@ -1,0 +1,52 @@
+---
+title: andsoitbegins
+layout: post
+bg: 'snowgray.jpg'
+crawlertitle: "ANDSOITBEGINS" # This goes into the browser titlebar 
+summary: "lol yo math is kinda hard" # This shows up on the left frame and on things like facebook posts
+date: 2018-01-09 # Duh.
+tags : ['blog'] # 'blog','links's # In quotes, separate by commas
+slug: beginagin # This becomes the URL
+author: "acsexton" # Obvs
+categories: posts
+
+---
+
+> *It may be that when we no longer know what to do we have come to our real work, and that when we no longer know which way to go we have come to our real journey. The mind that is not baffled is not employed. The impeded stream is the one that sings.* -Wendell Berry
+
+# Winter Has Come
+
+Okay. So. Since the 'bob'-counter there has been so much more code-learnin'. And, God, I didn't know 10 digits + 26 letters (and a few we borrowed) could cause so many problems. I've done more math and coding in eight months than I think I did up to that point, made it through all the [courses I mentioned](https://acsexton.github.io/posts/reboot/) (**AND I LIKED IT**), and jeez I hope I'm prepared as I think I am.
+
+But it has. been. real. 
+
+There has been no shortage of doubt. No shortage of "YOUR SERVICE IS ENDING PLEASE CALL..." forms, no shortage of hours spent on the porch wondering how people learned any of this stuff without youtube, and no shortage of time to think too hard about too many things when the rest of the world was sleeping. 
+
+But man some ridiculously cool people have been willing to stay awake through my ceaseless, uh, "expressions of mild to moderate terror", and for that I'm about as thankful as one can be.
+
+> *Isn't it the moment of most profound doubt that gives birth to new certainties? 
+Perhaps hopelessness is the very soil that nourishes human hope; perhaps one could never find sense in life without first experiencing its absurdity.* -Vaclav Havel
+
+Learning all this has taken a lot of adjustments to the way I live, the things I choose to look for in the world and even some of the ways I speak about it. Regardless of how any of this goes, a year of baby steps through a dang dark patch of forest is probably about the best way I could've spent such time. And here at the edge of the next path I'm ready to see where it takes me.
+
+That said, I haven't taken a real classroom math course since Algebra 2 in 11th grade. 
+
+# "lol i'm bad at math too" 
+
+Yeah okay but I failed it then and it was my *second try*.
+
+(And if you were in kindergarten the first time I failed it, you could be one of my Freshman classmates this year. **Hrng.**) 
+
+As a letters person knowing I'll have to do well in Calc 2 a little over a year from now, there aren't a whole lot of bigger concerns. But the only difference between this and any other sort of terrifying life event is that I've *asked* for this.
+
+Whether we take a risk or not, things change. [And they like to do so suddenly.](https://acsexton.github.io/posts/reboot/) If you ever really feel stagnant, take heart in knowing you're either ignoring the obvious, lying to yourself, or something's coming just around the corner for ya, so if you ever see anything like an opportunity for something better at any time, you might as well take it seriously and do what *you* think is best.
+
+Put your goals in front of your worries.
+
+If you don't have any goals, stop being boring and get some.
+
+I'm gonna go get my books on Saturday and see about taking a couple steps forward on that new path.
+
+Let me know about yours and we'll share in "expressions of mild to moderate terror".
+
+![Herehaveaslothgif](/assets/images/slothgif.gif)
