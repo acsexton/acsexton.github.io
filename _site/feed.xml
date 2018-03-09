@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Significent</title>
+    <description>Because always reboot first.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Jan 2018 15:42:56 -0500</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2018 15:42:56 -0500</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>andsoitbegins</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;It may be that when we no longer know what to do we have come to our real work, and that when we no longer know which way to go we have come to our real journey. The mind that is not baffled is not employed. The impeded stream is the one that sings.&lt;/em&gt; -Wendell Berry&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;winter-has-come&quot;&gt;Winter Has Come&lt;/h1&gt;
+
+&lt;p&gt;Okay. So. Since the ‘bob’-counter there has been so much more code-learnin’. And, God, I didn’t know 10 digits + 26 letters (and a few we borrowed) could cause so many problems. I’ve done more math and coding in eight months than I think I did up to that point, made it through all the &lt;a href=&quot;https://acsexton.github.io/posts/reboot/&quot;&gt;courses I mentioned&lt;/a&gt; (&lt;strong&gt;AND I LIKED IT&lt;/strong&gt;), and jeez I hope I’m prepared as I think I am.&lt;/p&gt;
+
+&lt;p&gt;But it has. been. real.&lt;/p&gt;
+
+&lt;p&gt;There has been no shortage of doubt. No shortage of “YOUR SERVICE IS ENDING PLEASE CALL…” forms, no shortage of hours spent on the porch wondering how people learned any of this stuff without youtube, and no shortage of time to think too hard about too many things when the rest of the world was sleeping.&lt;/p&gt;
+
+&lt;p&gt;But man some ridiculously cool people have been willing to stay awake through my ceaseless, uh, “expressions of mild to moderate concern”, and for that I’m about as thankful as one can be.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Isn’t it the moment of most profound doubt that gives birth to new certainties? 
+Perhaps hopelessness is the very soil that nourishes human hope; perhaps one could never find sense in life without first experiencing its absurdity.&lt;/em&gt; -Vaclav Havel&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Learning all this has taken a lot of adjustments to the way I live, the things I choose to look for in the world and even some of the ways I speak about it. Regardless of how any of this goes, a year of baby steps through a dang dark patch of forest is probably about the best way I could’ve spent such time. And here at the edge of the next path I’m ready to see where it takes me.&lt;/p&gt;
+
+&lt;p&gt;That said, I haven’t taken a real classroom math course since Algebra 2 in 11th grade.&lt;/p&gt;
+
+&lt;h1 id=&quot;lol-im-bad-at-math-too&quot;&gt;“lol i’m bad at math too”&lt;/h1&gt;
+
+&lt;p&gt;Yeah okay but I failed it then and it was my &lt;em&gt;second try&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;(And if you were in kindergarten the first time I failed it, you could be one of my Freshman classmates this year. &lt;strong&gt;Hrng.&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;As a letters person knowing I’ll have to do well in Calc 2 a little over a year from now, there aren’t a whole lot of bigger concerns. But the only difference between this and any other sort of terrifying life event is that I’ve &lt;em&gt;asked&lt;/em&gt; for this.&lt;/p&gt;
+
+&lt;p&gt;Whether we take a risk or not, things change. &lt;a href=&quot;https://acsexton.github.io/posts/reboot/&quot;&gt;And they like to do so suddenly.&lt;/a&gt; If you ever really feel stagnant, take heart in knowing you’re either ignoring the obvious, lying to yourself, or something’s coming just around the corner for ya, so if you ever see anything like an opportunity for something better at any time, you might as well take it seriously and do what &lt;em&gt;you&lt;/em&gt; think is best.&lt;/p&gt;
+
+&lt;p&gt;Put your goals in front of your worries.&lt;/p&gt;
+
+&lt;p&gt;If you don’t have any goals, stop being boring and get some.&lt;/p&gt;
+
+&lt;p&gt;I’m gonna go get my books on Saturday and see about taking a couple steps forward on that new path.&lt;/p&gt;
+
+&lt;p&gt;Let me know about yours and we’ll share in “expressions of mild to moderate concern”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/slothgif.gif&quot; alt=&quot;Herehaveaslothgif&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/beginagin/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/beginagin/</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>Step one</title>
+        <description>&lt;p&gt;So good, bad, and ugly are all getting immortalized here and I just ate 40 minutes finishing an assignment that takes any random assortment of letters and counts the number of times “bob” shows up in it.&lt;/p&gt;
+
+&lt;p&gt;Capital letters, punctuation, sensible sentences be damned, my solution couldn’t be less elegant, but holy crap it feels really good to make something that works.&lt;/p&gt;
+
+&lt;p&gt;And as a bonus: I can only go up from here.&lt;/p&gt;
+
+&lt;p&gt;Next problem has an “If you’ve spent more than a few hours on this…” disclaimer, though, so I’m just gonna go ahead and &lt;a href=&quot;https://github.com/acsexton/mitx/blob/master/PSET1-2.py&quot;&gt;put my code here&lt;/a&gt; and let myself have a celebration whiskey while I enjoy the moment.&lt;/p&gt;
+
+&lt;p&gt;(And, for the record, I am pushing all my terrible, terrible code to &lt;a href=&quot;https://github.com/acsexton&quot;&gt;my github&lt;/a&gt;, so if you want to follow the backend of how things are going, that’s the way! Here’s hoping flipping through that when I’m in the gutters with later projects will turn out to be a programming equivalent to drowning depression in a couple beers while laughing at my highschool poetry.)&lt;/p&gt;
+
+&lt;h2 id=&quot;oh-and&quot;&gt;OH and&lt;/h2&gt;
+
+&lt;p&gt;Also, I got my acceptance letter this week, so I am officially a tentative returning student for the Computer Science program at WCU starting Spring 2018.&lt;/p&gt;
+
+&lt;p&gt;And as everyone knows, administrative validation by committee is the only way we get to know what’s real.&lt;/p&gt;
+
+&lt;p&gt;Let’s hope I can do a bit more than count some bobs by the time January rolls around.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://giphy.com/embed/26xBB14wYhGaY2SrK&quot; width=&quot;480&quot; height=&quot;269&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/fourrosesbourbon-26xBB14wYhGaY2SrK&quot;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Jun 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/toomanybobs/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/toomanybobs/</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>Reboot</title>
+        <description>&lt;p&gt;You get a job, you do the budget, and you start saving a couple months’ worth of pay in the &lt;em&gt;off chance&lt;/em&gt; you’re one day told you can’t come back tomorrow.&lt;/p&gt;
+
+&lt;p&gt;Then, five years later, HR calls you to an orientation classroom and tells you in front of your manager and director that corporate is absorbing your responsibilities, here is your severance package and unemployment info could you please return for your personal stuff at 6pm tonight.&lt;/p&gt;
+
+&lt;h1 id=&quot;oh-okay-yeah-thats-cool&quot;&gt;Oh okay yeah that’s cool&lt;/h1&gt;
+
+&lt;p&gt;You nod and smile, thank them for the opportunities and for their time today and wonder if this means you need to get a haircut now and what your mom will say.&lt;/p&gt;
+
+&lt;p&gt;You’re escorted back to your office just to grab your bag and the one old work buddy still in the building avoids eye contact. You notice helpdesk’s already grabbed your old pal, ITLaptop05, and something about that feels weird. You drive slow home, your car lugging a little under the burden but mostly because you’re not in a great headspace and forgot to shift back into third before this hill.&lt;/p&gt;
+
+&lt;p&gt;You tell your partner, you have a couple drinks, you turn on a movie you can’t really focus on and halfway through you remember you hadn’t logged out of anything before they took that laptop, so there’s that. You spend the rest of the movie changing your passwords for everything you might have been able to access at work and refresh the same “recent activity” Google page five, six, seven times… You decide you’re being paranoid and it’s 11:30pm – not that it matters – they probably wiped it by now anyway. You blink and stare at the TV and wait for day .5 of being &lt;em&gt;“in-between jobs”&lt;/em&gt; to be over.&lt;/p&gt;
+
+&lt;p&gt;You try to convince yourself it’s a kind of summer vacation.&lt;/p&gt;
+
+&lt;p&gt;It kind of works.&lt;/p&gt;
+
+&lt;p&gt;You kind of sleep.&lt;/p&gt;
+
+&lt;h1 id=&quot;day-one&quot;&gt;Day One&lt;/h1&gt;
+
+&lt;p&gt;You wake up blurry, startled to notice how much your morning routine relied on needing to be somewhere, and after a couple hours you manage to find your old money-budget-saving spreadsheet. You’ve forgotten abbreviations you thought would make total sense later, but struggle through them, run your balances, rack your brain for any upcoming credit card posts, regret some recent extravagance, and finally nod when you see you’d definitely managed to save yourself into a little time to breathe.&lt;/p&gt;
+
+&lt;p&gt;So you do.&lt;/p&gt;
+
+&lt;p&gt;You resume activity sometime later, unsure if you spent the last hour staring at a wall or dozing – not that it matters – before you, with a a determined nod, search for old jobhunt emails (that would be in kindergarten if they were children), drag yourself to LinkedIn to update and end that position without being too obvious, and you do your best to “endorse” a couple friends hoping they’ll do the same.&lt;/p&gt;
+
+&lt;p&gt;You go through the motions for a few days to try and build a new routine, updating a Word document to keep track of your applications, alternately searching for more postings nearby and seeing more spots on the walls you’ve never noticed. You find a few openings asking way more than yours needed and some others offering a bit less than yours did. So, simultaneously insecure of your knowledge and prideful over your position, you grin and bear the limbo while sweating out resume edits, churning cover letters that you can’t tell make you seem too needy or maybe passive? Your cat provides no useful feedback.&lt;/p&gt;
+
+&lt;p&gt;Then another week passes. After a good evening out with friends, you’re struck by a best possible next action on one of those old projects. And that’s when it &lt;strong&gt;really&lt;/strong&gt; hits you.&lt;/p&gt;
+
+&lt;p&gt;You’re done there. You’ll never go back to that desk, pick up that phone, log into that PC, attend any of those calls, drop by any of those meetings… That project you drove so hard for so long is no longer yours. And the part of you that knows “money is freedom” starts to tell you that you shouldn’t have even gone out tonight and shouldn’t you have heard from that one company by now and God I bet your cover letter made you sound like an idiot you should have listened to your cat, and bit by bit, your life starts to feel like it’s less yours too.&lt;/p&gt;
+
+&lt;p&gt;But in tech, before you go thinking something is broken, you know you should always restart.&lt;/p&gt;
+
+&lt;p&gt;So do so.&lt;/p&gt;
+
+&lt;h1 id=&quot;reboot&quot;&gt;Reboot&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Why were you there in the first place?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I blew my chances with math in highschool so I picked up a degree in Philosophy with a minor in English. Fell back on my computer repair hobby into IT support after eight months of unemployment and repeated failures to justify the cost of grad school.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hobby. Why?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Because computers make sense to me, and people kinda do too. Dogs love to be smart. Cats love to be smart. People, on the other hand, are almost always willing to do the smartest thing that’s &lt;em&gt;easiest&lt;/em&gt; for them, but we’ll put in those hours doing dumb stuff too. And even though I kinda liked computers, I did plenty of dumb stuff as well to get that good.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Well, where did you put in those hours?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am no stranger to banging on a keyboard at 3:30am willing git to let me sync except I’d cloned into what I’d later realize was a symlink to my Dropbox which had confused my repo…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Maybe try to pull something intelligent from this breakdown?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ok.&lt;/p&gt;
+
+&lt;p&gt;I want to, at least a little, help break down the barrier of entry to a more open world of information, making ideas and data available to those who, just a few years ago, may not have been able to get any of it.&lt;/p&gt;
+
+&lt;p&gt;I want to learn to script, to automate, to get a computer to not just understand but maybe even start to intuit meaning from people who struggle to get that meaning out.&lt;/p&gt;
+
+&lt;p&gt;I want to help make computers accessible and applications open and easy, and I want to give a kid who grew up confused by some stuff like me the opportunity to feel what feeling smart for once feels like.&lt;/p&gt;
+
+&lt;h1 id=&quot;then-do-that&quot;&gt;Then do that.&lt;/h1&gt;
+
+&lt;p&gt;So I started the research.&lt;/p&gt;
+
+&lt;p&gt;I Googled the maybe undeniably sensible&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;things wish know knew computer science major graduate&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;and indiscriminately opened each link on the first three pages of returns. It took me the next couple days to process it all. Quora, Stack Exchange, Reddit, blogs, school news, articles, the links in those articles, noting the books and article recommendations in the comment threads from &lt;em&gt;those&lt;/em&gt;… Breaking it all down, I could see more and more that the things I get about people and the things I know about computers might blend somewhere if I try hard enough.&lt;/p&gt;
+
+&lt;p&gt;So I built a timeline, wrote down goals and deadlines, dredged a non-graphing calculator up from the black pits of some very &lt;em&gt;are-you-sure-you-don’t-mean-to-buy-a-ti-83&lt;/em&gt; online retailers, and signed up for some online courses to make up for the fact that I haven’t done more than the bare minimum of code and never paid any attention in math. Then I got to work.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The courses:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x&quot;&gt;Arizona State University MAT117: College Algebra and Problem Solving&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10&quot;&gt;MITx: 6.00.1x Introduction to Computer Science and Programming Using Python&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.edx.org/course/precalculus-asux-mat170x&quot;&gt;Arizona State University MAT170: Precalculus&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Halfway through the college algebra course, once I saw math (probably) won’t try and kill me (yet), I sent in my application to start Computer Science as a returning student in Spring 2018.&lt;/p&gt;
+
+&lt;p&gt;Meantime I’ll keep on keeping on.&lt;/p&gt;
+
+&lt;p&gt;Review, practice, study, focus on living cheap and easy, and hit the ground running in January as a full-time student once again. Hopefully skilled enough in math by then to succeed in Calc I and enough in code to get trucking through till graduation with a decent amount of extracurricular projects under my belt, powering that good ol’ personal narrative.&lt;/p&gt;
+
+&lt;p&gt;I have plenty of resources for independent study and personal project ideas to practice on (which I’ll document here),  incredibly supportive friends and colleagues in the industry, and the benefit of 5 years experience (everyone’s favorite entry level pre-requisite) in healthcare IT at an analyst level.&lt;/p&gt;
+
+&lt;p&gt;Good thoughts. Good things.&lt;/p&gt;
+
+&lt;p&gt;It’ll be interesting to see how it all turns out, but for now, things seem to make sense and I can breathe easy again. For now it feels like I’m on track to do something better, to take my passions for interaction and sharing information and people and computers, bundle ‘em all together, ready to engage whatever’s next.&lt;/p&gt;
+
+&lt;p&gt;This feels right.&lt;/p&gt;
+
+&lt;p&gt;So let’s go.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/reboot/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/reboot/</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
