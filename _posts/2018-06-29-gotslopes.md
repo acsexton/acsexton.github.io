@@ -40,7 +40,7 @@ For me, words are warmth and truth and understanding and comfort. And I was putt
 
 And let’s be real: it’s not like somewhere in the last year was there a point I experienced a moment of self-discovery about math or anything. I never suddenly found out I was “good at it all along". The calculator did not turn out to be *[in my heart the whole time](https://tvtropes.org/pmwiki/pmwiki.php/Main/ItWasWithYouAllAlong)*, and the credits have yet to roll -- I still have integral calc to finish and multivariable calc to start.
 
-I failed a **constantly** at the start.
+I failed **constantly** at the start.
 
 But more importantly: I failed **consistently**. 
 
