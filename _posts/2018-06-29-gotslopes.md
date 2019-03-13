@@ -11,7 +11,7 @@ author: "acsexton" # Obvs
 categories: posts # I think similar to tags, shows up in RSS but nowhere else?
 ---
 
-It’s 2010. Trip with friends and we’re at a gas station. I volunteer to go get snacks. I have no cash in hand and $6 on my debit card. 
+It’s 2010. Friends and I are at a gas station. I volunteer to get snacks. I have no cash and $6 on my card. 
 Pete wants a $3 Coke and gives me a $5 bill.
 Davis wants $2 Combos and a $4 Red Bull and gives me a $10. 
 What bill(s) do I give the guy at the register and who gets what change?
@@ -24,68 +24,50 @@ Put it all on my debit card, tell them both to buy me a beer when we get where w
 
 Don’t get me wrong, I like treating people, but numbers, man.
 
-As [I mentioned before](https://acsexton.github.io/posts/beginagin/), I didn’t do so hot in highschool math. So I hit college in 2007 knowing some 8th-grade algebra, solving super-simple problems for 'x' and reciting the pythagorean theorem (not that I could actually *use* it). Studying philosophy, I focused on what makes sense to people and why. Felt like I dodged a bullet when I found out I could just take "History of Numbers" and be done with math for good. Still, it was a long while before I began to do well in the required formal logic work, but eventually those went *okay*, my papers started to have real structure, and I did decently overall. 
+I hit college in 2007 knowing some 8th-grade algebra. *Some*. I was more into learning about what makes sense to people and why. I felt like I dodged a bullet when I found out I could just take Math 103, something like "History of Numbers", and be done with math credits for good. Sure, Philosophy's logic courses hurt, but with some effort, those cleared up, my papers started to have real structure, and I did decently overall. 
 
-All that said, still, when I look back at the language in earlier posts on this site, it’d be easy to assume I was making a bigger deal out of all of this than it was.
+Still, I'm sure it's easy to assume I've been making a bigger deal out of math than it was.
 
-But, you have to understand, I was choosing a path that I spent my whole life thinking I would fail.
-
-I wasn't made for this at all.
-
-I had to make myself for this. 
+But, you have to understand, I knowingly chose a path that I spent my whole life believing I would fail.
 
 #### It was the biggest deal. ####
 
-For me, words are warmth and truth and understanding and comfort. And I was putting them on the backburner to pursue what I felt was the sanitary-est and abstract-est of sanitary abstractions: taking up Computer Science in the name of business and economic trend.
+Words are warmth and truth and understanding and comfort. And it's not like there a point I experienced a moment of self-discovery where I suddenly loved math or anything. I never suddenly found out I was “good at it all along", never "discovered my gift", and the calculator has certainly not turned out to be *[in my heart the whole time](https://tvtropes.org/pmwiki/pmwiki.php/Main/ItWasWithYouAllAlong)*. 
 
-And let’s be real: it’s not like somewhere in the last year was there a point I experienced a moment of self-discovery about math or anything. I never suddenly found out I was “good at it all along". The calculator did not turn out to be *[in my heart the whole time](https://tvtropes.org/pmwiki/pmwiki.php/Main/ItWasWithYouAllAlong)*, and the credits have yet to roll -- I still have integral calc to finish and multivariable calc to start.
+I started these classes and I failed **constantly**. I can't express how discouraging it was when I realized you certainly don't get better at math by not trying for 12 years.
 
-I failed **constantly** at the start.
+But I pressed on. And through failing **consistently**, I started to get better.
 
-But more importantly: I failed **consistently**. 
-
-And much, much more importantly: I learned how to learn from my mistakes. (More on that sometime soon.)
-
-But I guess I’m finally on the right track, ‘cause after a year of work, here's how the first semester went:
+And I guess I’m finally on the right track, ‘cause after a year of work, here's how the first semester went:
 
 | ![I honestly don't even know what happens when you get on the dean’s list. But here’s hoping for a free dinner. Also, uh... working on that cumulative.](/assets/images/posts/gotslopes/gotslopes_grades.png) |
 | :--: |
 | *What even* is *a Dean's List?* |
 
-### So About that Progress ###
 
-This time last year, I would not have comprehended the slope of a line if you had given me the wikipedia page for 'slope' and paid me to try to work it out. 
 
-`y = mx + b` meant nothing to me.
+This time last year, I could not find the slope of a line.
 
-But about a month ago I found out I can find slopes of lines perpendicular to lines tangent to points on curves. 
+And about a month ago I found out I can find slopes of lines perpendicular to lines tangent to points on curves:
 
 | ![yoooooo](/assets/images/posts/gotslopes/gotslopes_math.png) |
-| :--: |
-| *I'll talk about the colors and such soon...* |
+| :----------------------------------------------------------: |
+|                       *Heeeyy colors*                        |
 
-### So, got anything in mind that you think you can't do? ###
-
-I’m gonna make a couple posts soon that will walk through how I learned my way up from extremely limited Algebra to Calc II in a year, but I’ll save some time and give you the general takeaway now:
+### So, tell me about a thing you think you can't do. ###
 
 Think of the last time you or someone close to you dropped the words “I’m bad at [x].” 
 
-Common, right? 
+But of the things you hope you’re good at, how often do you actually *feel* good at those things? How often do you talk to someone else who’s able to share that they’re “good at” something too? 
 
-But of the things you hope you’re good at, how often do you actually *feel* good at those things? How often do you talk to someone else who’s confidently (but not arrogantly) able to share that they’re “good at” something too? 
+Why do we seem to *like* to say we're bad at things?
 
-It’s uncommon at best, cocky and antisocial at worst.
+We make a social practice out of not learning things that don't come easy. This is how we forget how okay it is to be wrong, to fail, how fun it can be to be bad at something *until we're good at it*.
 
-Truth is we *like* to say we're bad at things. 
+Math is much less something to be studied than it is a skill to be developed. Just like any other skill, it requires repetition, review, and (especially when you're a words-person) a pretty serious tolerance for failure. 
 
-We know what we know, and when we *know* we cannot do something it may be better to spend our time and energy somewhere else. 
+It may be impossible to teach someone something they *know* they cannot do, even if that person is yourself. 
 
-Fair enough.
+But it makes a world of difference when they’re willing to fail as many times as it takes to succeed.
 
-But this is how we make a social practice out of not “wasting our time” learning things that didn’t come easy.
-
-You could say it’s a … slippery slope. (Not sorry.)
-
-Math is much less something to be studied than it is a skill to be developed. And that concept never quite connected for me until this year: just like any other skill, it requires repetition, review, and an open willingness for failure. 
-
-It is absolutely impossible to teach someone (including yourself) something they *know* they cannot do. But it makes a world of difference when they’re willing to fail as many times as it takes to succeed.
+Pick your direction. And show up to walk it until you're where you wanted to be.
