@@ -12,7 +12,7 @@ Hi! I'm Andrew.
 
 I've always been a deep-thinker and taking-stuff-apart-er.
 
-After getting a degree from [WCU's Philosophy and Religion department](https://www.wcu.edu/learn/departments-schools-colleges/cas/humanities/pardept/index.aspx) (minoring in writing), I became a help desk guy at Harris Regional Hospital/LifePoint (and part-time club DJ ...unfortunately not mixing beats at the hospital).
+After getting a degree from [WCU's Philosophy and Religion department](https://www.wcu.edu/learn/departments-schools-colleges/cas/humanities/pardept/index.aspx) (minoring in writing), I became a help desk guy at Harris Regional Hospital/LifePoint (and [part-time club DJ](https://soundcloud.com/barrowlights/tracks)...unfortunately not mixing beats at the hospital).
 
 After a while, I earned a promotion to Healthcare Information Systems Analyst and started doing department-to-hospital-wide project implementations and working with the system admins to clean up some old loose ends we found. A little under two years later, they brought my position back to company headquarters so we split on good terms. I used my okay-you're-done-now-package to start tuition on a bachelor's in Computer Science (minoring in math), again [at WCU](https://www.wcu.edu/learn/programs/computer-science/index.aspx).
 
