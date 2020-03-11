@@ -9,10 +9,10 @@ permalink: /pages/blurbs.html
 ---
 
 {% for post in site.posts limit: 10 %}
-  {% if post.category == 'blurbs' %}
+  {% if post.category == 'blurb' %}
     <article class="index-page">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      {{ post.content }}
     </article>
   {% endif %}
 {% endfor %}

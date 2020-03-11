@@ -1,14 +1,14 @@
 ---
-layout: post # As opposed to page or whatever
-bg: 'trees.jpg' # Can be different per article
-title: "Y'all boys got slopes?" # Page title, shows up on left pane and in archives
-crawlertitle: "Got Slopes?" # This goes into the browser titlebar
-summary: "I GOT SLOPES ON LINES ON POINTS ON SLOPES ON POINTS ON CURVES" # This shows up on the left frame and on things like facebook posts
-date: 2018-06-29 # Duh.
-tags : ['blog'] # 'blog','links's # In quotes, separate by commas
-slug: gotslopes # This becomes the URL
-author: "acsexton" # Obvs
-category: blog # I think similar to tags, shows up in RSS but nowhere else?
+layout: post
+bg: 'trees.jpg'
+title: "Y'all boys got slopes?" # Page title, shows on left pane and archives
+crawlertitle: "Got Slopes?" # Browser titlebar
+summary: "I GOT SLOPES ON LINES ON POINTS ON SLOPES ON POINTS ON CURVES" # Shows on left pane
+date: 2018-06-29 
+tags : ['blog'] # Use quotes, separate by commas
+slug: gotslopes # Becomes part of the URL
+author: "acsexton"
+category: blog # RSS / Archive split
 ---
 
 It’s 2010. Friends and I are at a gas station. I volunteer to get snacks. I have no cash and $6 on my card. 

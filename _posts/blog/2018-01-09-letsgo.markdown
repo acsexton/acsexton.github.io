@@ -2,12 +2,12 @@
 title: andsoitbegins
 layout: post
 bg: 'snowgray.jpg'
-crawlertitle: "ANDSOITBEGINS" # This goes into the browser titlebar 
-summary: "lol yo math is kinda hard" # This shows up on the left frame and on things like facebook posts
-date: 2018-01-09 # Duh.
-tags : ['blog'] # 'blog','links's # In quotes, separate by commas
-slug: beginagin # This becomes the URL
-author: "acsexton" # Obvs
+crawlertitle: "ANDSOITBEGINS"
+summary: "lol yo math is kinda hard"
+date: 2018-01-09
+tags : ['blog']
+slug: beginagin
+author: "acsexton"
 category: blog
 ---
 
