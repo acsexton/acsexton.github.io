@@ -8,7 +8,7 @@ date: 2018-01-09 # Duh.
 tags : ['blog'] # 'blog','links's # In quotes, separate by commas
 slug: beginagin # This becomes the URL
 author: "acsexton" # Obvs
-categories: posts
+category: blog
 ---
 
 > *It may be that when we no longer know what to do we have come to our real work, and that when we no longer know which way to go we have come to our real journey. The mind that is not baffled is not employed. The impeded stream is the one that sings.* -Wendell Berry

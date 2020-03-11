@@ -8,7 +8,7 @@ date: 2018-06-29 # Duh.
 tags : ['blog'] # 'blog','links's # In quotes, separate by commas
 slug: gotslopes # This becomes the URL
 author: "acsexton" # Obvs
-categories: posts # I think similar to tags, shows up in RSS but nowhere else?
+category: blog # I think similar to tags, shows up in RSS but nowhere else?
 ---
 
 It’s 2010. Friends and I are at a gas station. I volunteer to get snacks. I have no cash and $6 on my card. 

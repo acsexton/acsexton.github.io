@@ -6,10 +6,18 @@
 
     <a class="blog-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-    {% for my_page in site.pages %}
+    <!-- Use automatic navigation from page sorting in /pages -->
+    <!-- {% for my_page in site.pages %}
       {% if my_page.active %}
         <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
       {% endif %}
+    {% endfor %} -->
+
+    <!-- Use /_data/navigation.yml to manage header links -->
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}">
+        {{ item.name }}
+      </a>
     {% endfor %}
 
     <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
