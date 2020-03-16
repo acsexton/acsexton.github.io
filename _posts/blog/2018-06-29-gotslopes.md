@@ -40,7 +40,7 @@ But I pressed on. And through failing **consistently**, I started to get better.
 
 And I guess I’m finally on the right track, ‘cause after a year of work, here's how the first semester went:
 
-| ![I honestly don't even know what happens when you get on the dean’s list. But here’s hoping for a free dinner. Also, uh... working on that cumulative.](/assets/images/posts/gotslopes/gotslopes_grades.png) |
+| ![I honestly don't even know what happens when you get on the dean’s list. But here’s hoping for a free dinner. Also, uh... working on that cumulative.](/assets/images/posts/gotslopes/grades.png) |
 | :--: |
 | *What even* is *a Dean's List?* |
 
@@ -50,7 +50,7 @@ This time last year, I could not find the slope of a line.
 
 And about a month ago I found out I can find slopes of lines perpendicular to lines tangent to points on curves:
 
-| ![yoooooo](/assets/images/posts/gotslopes/gotslopes_math.png) |
+| ![yoooooo](/assets/images/posts/gotslopes/mathwork.png) |
 | :----------------------------------------------------------: |
 |                       *Heeeyy colors*                        |
 
