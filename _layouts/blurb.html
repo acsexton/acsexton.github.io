@@ -11,6 +11,10 @@ layout: default
 
   <div class="post-content">
 
+    {% if page.image %}
+    <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}">
+    {% endif %}
+
     {{ content }}
 
   </div>

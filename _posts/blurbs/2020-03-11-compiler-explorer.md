@@ -3,7 +3,8 @@ layout: blurb
 bg: 'trees.jpg'
 title: "Compiler Explorer"          # Page title, left pane and archives
 crawlertitle: "Compiler Explorer"   # Browser titlebar
-tags : ['blurb']                    # Use quotes, separate by commas
+image: /assets/images/posts/blurbs/compiler-explorer.png
+tags: ['blurb']                    # Use quotes, separate by commas
 category: blurb                     # RSS / Archive split
 ---
 
