@@ -15,7 +15,7 @@ permalink: /pages/blurbs.html
       {% if post.image %}
         <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
       {% endif %}
-      {{ post.content }}
+      {{ post.excerpt }}
     </article>
   {% endif %}
 {% endfor %}
