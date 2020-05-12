@@ -11,63 +11,67 @@ author: "acsexton"
 category: blog # RSS / Archive split
 ---
 
-It’s 2010. Friends and I are at a gas station. I volunteer to get snacks. I have no cash and $6 on my card. 
-Pete wants a $3 Coke and gives me a $5 bill.
-Davis wants $2 Combos and a $4 Red Bull and gives me a $10. 
-What bill(s) do I give the guy at the register and who gets what change?
+Alright. Bear with me. 
 
-#### Answer: ####
+**Question:**  
+It’s 2010. Friends and I are at a gas station. I volunteer to get snacks. 
+* Pete wants a $3 Coke and gives me a $5 bill.
+* Davis wants $2 Combos and a $4 Red Bull and gives me a $10. 
+* I have no cash and only $6 on my debit card. 
 
-Put it all on my debit card, tell them both to buy me a beer when we get where we’re going, and call the bank and beg for an overdraft penalty refund once it posts. Since Davis is a Sophomore, we’ll make him go get our snacks at every stop from here on. 
+What bill(s) do I give at the register and who gets what change when I get back?
 
-### Problem solved. ###
+**Answer:**  
+It all goes on my debit card. I go back to the car and everyone owes me a beer when we get where we’re going. I'll call the bank hoping for an overdraft penalty refund once it posts. Davis is a Sophomore, so he'll get our snacks at every stop from here on. 
+
+**Problem Solved.**
 
 Don’t get me wrong, I like treating people, but numbers, man.
 
-I hit college in 2007 knowing some 8th-grade algebra. *Some*. I was more into learning about what makes sense to people and why. I felt like I dodged a bullet when I found out I could just take Math 103, something like "History of Numbers", and be done with math credits for good. Sure, Philosophy's logic courses hurt, but with some effort, those cleared up, my papers started to have real structure, and I did decently overall. 
+I hit college in 2007 knowing *some* 8th-grade algebra. Life had taught me ways to get by needing anything else. For my Philosophy degree, I only needed Math 103, "History of Numbers", to be done with math for good. The logic courses that used some geometry hurt a little, but my papers were good enough to carry me and I did fine overall. 
 
-Still, I'm sure it's easy to assume I've been making a bigger deal out of math than it was.
+But, I want you to understand, when I had that gut feeling that Computer Science was my only real way forward, I was starting a path that I spent my whole life believing I would fail.
 
-But, you have to understand, I knowingly chose a path that I spent my whole life believing I would fail.
+#### And oh boy, I failed. ####
 
-#### It was the biggest deal. ####
+I started these classes and I failed **constantly**. Saying "it's discouraging" doesn't cut close. Demoralizing.
 
-Words are warmth and truth and understanding and comfort. And it's not like there a point I experienced a moment of self-discovery where I suddenly loved math or anything. I never suddenly found out I was “good at it all along", never "discovered my gift", and the calculator has certainly not turned out to be *[in my heart the whole time](https://tvtropes.org/pmwiki/pmwiki.php/Main/ItWasWithYouAllAlong)*. 
+But I pressed on anyway. And somewhere after week four, I was just waking up, focusing on the task, following the routines... failing at math had become this miserable hobby I did.
 
-I started these classes and I failed **constantly**. I can't express how discouraging it was when I realized you certainly don't get better at math by not trying for 12 years.
+And I pressed on anyway.
 
-But I pressed on. And through failing **consistently**, I started to get better.
+About the time I started the last third of lessons on the College Algebra track, I had something like a moment of surprise. The idea that "failure is not an option" is nuanced: failure is, in fact, an ideal *temporary* option when the alternative is accepting total defeat.
 
-And I guess I’m finally on the right track, ‘cause after a year of work, here's how the first semester went:
+I was failing constantly, but more importantly, I was failing **consistently**. 
 
-| ![I honestly don't even know what happens when you get on the dean’s list. But here’s hoping for a free dinner. Also, uh... working on that cumulative.](/assets/images/posts/gotslopes/grades.png) |
-| :--: |
-| *What even* is *a Dean's List?* |
-
-
+#### I was showing up. ####
 
 This time last year, I could not find the slope of a line.
 
-And about a month ago I found out I can find slopes of lines perpendicular to lines tangent to points on curves:
+But about a month ago I found out I can find slopes of lines perpendicular to lines tangent to points on curves:
 
 | ![yoooooo](/assets/images/posts/gotslopes/mathwork.png) |
 | :----------------------------------------------------------: |
 |                       *Heeeyy colors*                        |
 
-### So, tell me about a thing you think you can't do. ###
 
-Think of the last time you or someone close to you dropped the words “I’m bad at [x].” 
+#### Why do we seem to *like* to say we're 'bad' at things? ####
 
-But of the things you hope you’re good at, how often do you actually *feel* good at those things? How often do you talk to someone else who’s able to share that they’re “good at” something too? 
+Of the things in your life that you'd hope you’re good at, how often do you actually *feel* good at them? How often do you talk to someone else who shares that they’re “good at” something? 
 
-Why do we seem to *like* to say we're bad at things?
+We make a social practice out of not learning things that didn't come easy. This is how we forget how okay it is to be wrong, to fail. We are always bad at things until we become good at them.
 
-We make a social practice out of not learning things that don't come easy. This is how we forget how okay it is to be wrong, to fail, how fun it can be to be bad at something *until we're good at it*.
+We'd rather console each other over shared badness than embrace it and try for better.
 
-Math is much less something to be studied than it is a skill to be developed. Just like any other skill, it requires repetition, review, and (especially when you're a words-person) a pretty serious tolerance for failure. 
+#### Failure is part of the process. Losing is learning. ####
 
-It may be impossible to teach someone something they *know* they cannot do, even if that person is yourself. 
+Math is just another skill to be developed: it requires repetition, review, and (especially when you're a words-person) a pretty serious tolerance for failure. 
 
-But it makes a world of difference when they’re willing to fail as many times as it takes to succeed.
+It's impossible to teach someone something they *know* they can't do, even if that person is yourself. 
 
-Pick your direction. And show up to walk it until you're where you wanted to be.
+But it makes a world of difference when you’re willing to fail as many times as it takes to succeed.
+
+**[Update: May 2020]**  
+I still can't figure out the best way to deal with the change above. But I
+did finish a math minor through Calculus III so if you wanna talk about
+solving multivariable triple integrals, sure thing.
