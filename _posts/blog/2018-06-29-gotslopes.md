@@ -11,7 +11,7 @@ author: "acsexton"
 category: blog # RSS / Archive split
 ---
 
-Alright. Bear with me. 
+Alright. Bear with me. This is a word problem but I swear the set up is for comedy and you'll be proud of me after I tell you the answer.
 
 **Question:**  
 It’s 2010. Friends and I are at a gas station. I volunteer to get snacks. 
