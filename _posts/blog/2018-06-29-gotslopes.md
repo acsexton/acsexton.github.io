@@ -1,7 +1,7 @@
 ---
 layout: post
 bg: 'trees.jpg'
-title: "Y'all boys got slopes?" # Page title, shows on left pane and archives
+title: "June 29, 2018: Y'all boys got slopes?" # Page title, shows on left pane and archives
 crawlertitle: "Got Slopes?" # Browser titlebar
 summary: "I GOT SLOPES ON LINES ON POINTS ON SLOPES ON POINTS ON CURVES" # Shows on left pane
 date: 2018-06-29 
@@ -47,6 +47,8 @@ I was failing constantly, but more importantly, I was failing **consistently**.
 #### I was showing up. ####
 
 This time last year, I could not find the slope of a line.
+
+And then I pushed through anyway.
 
 But about a month ago I found out I can find slopes of lines perpendicular to lines tangent to points on curves:
 
