@@ -1,0 +1,16 @@
+Main | About Me | Links | RSS
+
+Main > Posts
+* Blurbs -> Blog
+* Lehgo
+	* (Merge two)
+* Slopes
+	* (Rewrite)
+
+About Me
+* Photo
+* Github
+* Twitter
+* Linkedin
+
+* Bio
