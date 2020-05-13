@@ -5,10 +5,10 @@ bg: 'snowgray.jpg'
 crawlertitle: "andsoitbegins"
 summary: "lol yo math is kinda hard"
 date: 2018-01-09
-tags : ['blog']
+tags : ['post']
 slug: beginagin
 author: "acsexton"
-category: blog
+category: post 
 ---
 
 In May 2017, recent corporate purchase eliminated my position as "Health Information Systems Analyst". In response, I decided it was time to learn to count.

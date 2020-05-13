@@ -5,10 +5,10 @@ title: "June 29, 2018: Y'all boys got slopes?" # Page title, shows on left pane 
 crawlertitle: "Got Slopes?" # Browser titlebar
 summary: "I GOT SLOPES ON LINES ON POINTS ON SLOPES ON POINTS ON CURVES" # Shows on left pane
 date: 2018-06-29 
-tags : ['blog'] # Use quotes, separate by commas
+tags : ['post'] # Use quotes, separate by commas
 slug: gotslopes # Becomes part of the URL
 author: "acsexton"
-category: blog # RSS / Archive split
+category: post # RSS / Archive split
 ---
 
 Alright. Bear with me. This is a word problem but I swear the set up is for comedy and you'll be proud of me after I tell you the answer.

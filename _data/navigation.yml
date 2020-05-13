@@ -1,7 +1,5 @@
-- name: Blurbs
-  link: /pages/blurbs.html
-- name: Blog
-  link: /pages/blog.html
+- name: Posts 
+  link: /pages/post.html
 - name: About Me
   link: /pages/aboutme.html
 - name: Archive
