@@ -1,0 +1,85 @@
+---
+title: "Jan 09, 2018: It Begins"
+layout: post
+bg: 'snowgray.jpg'
+crawlertitle: "andsoitbegins"
+summary: "lol yo math is kinda hard"
+date: 2018-01-09
+tags : ['post']
+slug: beginagin
+author: "acsexton"
+category: post 
+---
+
+In May 2017, recent corporate purchase eliminated my position as "Health Information Systems Analyst". In response, I decided it was time to learn to count.
+
+#### Where this started ####
+
+I watched a lot of Westworld over the next few days, and spent a lot more time staring at the trees behind my house.
+
+Somewhere in that mix I somehow decided that without any math skills or history of programming, it was a good idea to go back to school full time for a Computer Science degree.
+
+So one morning, I Googled the extremely sensible:
+
+```
+things I wish I knew computer science major graduate
+```
+
+and opened every link on the first three pages of results. The next couple of days were full of Quora, Stack Exchange, Reddit, blogs, school news, articles, you name it.
+
+I put together a plan with goals and absolute deadlines and dredged a non-graphing TI-36X Pro up from the black pits of the *are-you-sure-you-don't-mean-to-buy-a-ti-83* internet.
+
+I registered for some basic online courses:
+* [Arizona State University MAT117: College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)
+* [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
+* [Arizona State University MAT170: Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)
+
+And figured I could live on savings through those, apply for school in the Spring, live on unemployment till classes start, and carry through with student loans as needed.
+
+So first I built a budget.
+
+And then I got to work.
+
+And then I finished all of the courses.
+
+And then I applied.
+
+And then I was accepted.
+
+#### Winter Has Come ####
+
+School proper starts soon, and I don't know if I'm even half as prepared as I think I am. The MITx course blew my head up, and combined with the math work, I think I've done more problem solving in the last eight months than I did in The Before-Times&trade; combined. 
+
+Of course, there has been plenty of doubt, plenty of "YOUR SERVICE IS ENDING PLEASE CALL..." forms, so many hours spent on the porch with [Khan Academy](http://khanacademy.org/), and too much time thinking too hard about too many things while the rest of the world slept. 
+
+But through it all, I have been amazed to find people have been willing to stay awake through my repeated, exceedingly-whelmed, badly worded tirades, my `short diversions` into `mild concern`. 
+
+And I'm as grateful as a person can be.
+
+But preparing myself for this has absolutely been among the hardest things I've ever done. It changed all of my priorities and everything about the way I live (including some of the ways I speak about it) and I've really struggled to keep up. No matter how this all turns out in the end, I feel like even just these past ~7 months of small steps has plenty of lessons for its own degree. 
+
+I'm about ready as I'll ever be.
+
+> *It may be that when we no longer know what to do we have come to our real work, and that when we no longer know which way to go we have come to our real journey. The mind that is not baffled is not employed. The impeded stream is the one that sings.* -Wendell Berry
+
+#### But still... ####
+
+I haven't taken a real classroom math course since Algebra 2 in 10th grade and I'm terrified.
+
+I mean, also I failed that *and* the following year and had to do it over Summer school before senior year, so as a letters person knowing I'll have to do well in Calculus II in about two semesters, I am, again, *mildly concerned*. 
+
+But I have to admit, there's a part of me that's extremely proud, knowing that I've asked for it and done everything I could to prepare.
+
+Whether we choose to take risks or not, things change. And for reasons unknown, things tend to change very suddenly.
+
+So if you ever really feel stagnant, take heart in knowing you might just be overlooking signs of something big coming.
+
+Do what *you* think is best.
+
+Put your goals in front of your worries.
+
+And if you don't have any goals, stop being boring and get some.
+
+I'm gonna go get my books on Saturday and see about taking a couple steps forward on my new path. Let me know about your struggles and we'll share `mild concerns`.
+
+![Herehaveaslothgif](/assets/images/posts/letsgo/slothgif.gif)

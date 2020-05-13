@@ -5,7 +5,7 @@ title: "Learn to Program Through Online Courses"          # Page title, left pan
 crawlertitle: "Learn to Program"   # Browser titlebar
 image: /assets/images/posts/blurbs/mitx-edx.png
 tags: ['blurb']                    # Use quotes, separate by commas
-category: blurb                     # RSS / Archive split
+category: post # RSS / Archive split
 ---
 
 A friend of mine is learning to code, and the time is simply not there for something like a [full Open Source CS Study Plan](https://github.com/ossu/computer-science). Continuing the search, I found [this really nice quick rundown](https://github.com/mvillaloboz/open-source-cs-degree) of useful online courses for learning what programming's about, but a good few of the programs are down or their delivery methods are a little out of date. So I got to work on some replacements.
