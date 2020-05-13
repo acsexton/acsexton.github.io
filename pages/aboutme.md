@@ -8,6 +8,12 @@ permalink: /pages/aboutme.html
 # active: about               # Title for navigation
 ---
 
+#### Links ####
+* [LinkedIn](https://www.linkedin.com/in/acsexton/)
+* [GitHub](https://github.com/acsexton/)
+* [Twitter](https://twitter.com/ac_sexton)
+
+#### Bio ####
 Hi! I'm AC, a deep-thinker and dedicated take-stuff-apart-and-put-it-back-together-better-er, and I'm starting a career in software engineering.
 
 After getting a degree in [Philosophy](https://www.wcu.edu/learn/departments-schools-colleges/cas/humanities/pardept/index.aspx) with some heavy creative emphasis, I learned enough as hospital help desk guy (and [part-time club DJ / mashup artist](https://soundcloud.com/barrowlights/tracks)) to become a pretty solid Healthcare Information Systems Analyst. While working through a couple short stories, I decided it was time to muscle up the [other half of my brain](https://www.britannica.com/story/are-there-really-right-brained-and-left-brained-people) and take a trip back to school for a bachelor's in [Computer Science](https://www.wcu.edu/learn/programs/computer-science/index.aspx).
