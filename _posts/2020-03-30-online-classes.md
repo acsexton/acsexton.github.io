@@ -22,13 +22,8 @@ If you do choose to do the other, consider starting Prereq 2 alongside it.
 * [Introduction to Computer Science (using C): Harvard](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * [Introduction to Computer Science (using Python): MITx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
-## Prerequisite 2
-Again, consider trying to focus on this on its own, but if this is going smoothly for you a week or two in, start up Term 1.
-
-* [Data Structures: UC San Diego](https://www.edx.org/course/data-structures-fundamentals)
-
 ## Term 1
-* [Algorithm Specialization: Stanford](https://www.coursera.org/specializations/algorithms)
+* [Data Structures and Algorithms: UC San Diego](https://www.coursera.org/specializations/data-structures-algorithms)
 * [Computer Architecture: MITx](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
 
 ## Term 2
